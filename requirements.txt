@@ -1,0 +1,4 @@
+hindsight-all
+groq
+flask
+python-dotenv
